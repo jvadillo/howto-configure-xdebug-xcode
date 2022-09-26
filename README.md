@@ -17,6 +17,7 @@ Download the appropiate DLL for your PHP version:
 After downloading it, move the downloaded file to the /ext folder. This is the folder where PHP keeps all of its extensions and can be found under the folder where you have installed PHP.
 
 ### Step 2: Xdebug configuration
+Note: MacOSX users must follow the guidelines from the official site.
 Configure PHP to use Xdebug by adding the following lines to your `php.ini`:
 
 ```
